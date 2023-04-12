@@ -1,6 +1,6 @@
 #  Adidas USA Sales in 2020 - 2021
 
-We need to know the answers to a number of questions that make important decisions based on intuition data, including:
+We need to know some crucial things:
 
 - Total of Sales 
 - The top Retailer
