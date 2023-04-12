@@ -1,4 +1,4 @@
-# Startup-Company-project
+#  Adidas USA Sales 
 
 the problem:
 A startup company after collecting a number of revenues and expenses during the months
