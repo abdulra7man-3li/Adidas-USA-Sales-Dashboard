@@ -2,11 +2,11 @@
 
 We needed to know some crucial things:
 
-- Total of Sales 
+- Total Sales 
 - The top Retailer
 - The top Product
 - Sales in different States
-- The top month in both year
+- The top month in both years
 
 
-The dataset link: https://goo.su/4FLtbip
+The dataset link: https://goo.su/Q0IN86
